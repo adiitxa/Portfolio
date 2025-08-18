@@ -1,4 +1,4 @@
-# 💼 My Portfolio  
+# 👹 My Portfolio  
 
 Welcome to my **personal developer portfolio website** – a digital space where I showcase my projects, skills, and journey as a developer.  
 
@@ -18,9 +18,8 @@ Welcome to my **personal developer portfolio website** – a digital space where
 ---
 
 ## 📬 Connect With Me  
-- **Email:** yourname@email.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **LinkedIn:** [Aditya Gaikwad](https://www.linkedin.com/in/aditya-gaikwad-597654256/)  
+- **GitHub:** [adiitxa](https://github.com/adiitxa)  
 
 ---
 
